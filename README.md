@@ -2,6 +2,8 @@
 
 An experimental gesture recognition tool using the Microbit's accelerometer, built using [ml5js](https://learn.ml5js.org/#/reference/neural-network).  Ml5js is built on top of [TensorFlow.js](https://www.tensorflow.org/js).
 
+**DEMO**: https://ttseng.github.io/microbit-ml/
+
 
 ## Instructions
 Follow the instructions below for running the demo app
@@ -10,7 +12,7 @@ Follow the instructions below for running the demo app
 
 <img src="img/hex-code.png" width="500">
 
-2. Open up the [Gesture Recognizer app]() in a Chrome browser (full info on system requirements for Web BLE [here](https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md)).
+2. Open up the [Gesture Recognizer app](https://ttseng.github.io/microbit-ml/) in a Chrome browser (full info on system requirements for Web BLE [here](https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md)).
 
 3. Click `Pair Your Microbit.`  If your Microbit is successfully paired, you should see a smiley face on the Microbit's LED array.
 
